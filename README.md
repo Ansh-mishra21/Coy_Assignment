@@ -133,20 +133,3 @@ coy-discover/
 ```
 
 ---
-
-## Part A: Two core features for Coy
-
-<!-- Write this after exploring https://app.getcoy.com (phone OTP login, adding a crush,
-     email verification, the invite link and the extra-slots screen). -->
-
-### Feature 1: _name_
-
-**What it is:**
-
-**Why Coy needs it:**
-
-### Feature 2: _name_
-
-**What it is:**
-
-**Why Coy needs it:**
